@@ -1,5 +1,7 @@
 # Adaptable Logo
 
+Figma online file: https://www.figma.com/file/RnrOIdg3BtkmbRIHltqito/Adaptable-Logo
+
 This documents contains:
 
 - svg and png for all dark/light and with/without text
